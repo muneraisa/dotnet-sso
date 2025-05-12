@@ -1,0 +1,90 @@
+[
+  {
+    "Type": "aud",
+    "Value": "7e8216aa-a26c-4bf5-b04c-9f8d80e45ee8"
+  },
+  {
+    "Type": "iss",
+    "Value": "https://sts.windows.net/9c021be8-508f-4638-b1df-52b0e3c615ac/"
+  },
+  {
+    "Type": "iat",
+    "Value": "1746965324"
+  },
+  {
+    "Type": "nbf",
+    "Value": "1746965324"
+  },
+  {
+    "Type": "exp",
+    "Value": "1746969224"
+  },
+  {
+    "Type": "http://schemas.microsoft.com/claims/authnmethodsreferences",
+    "Value": "pwd"
+  },
+  {
+    "Type": "http://schemas.microsoft.com/claims/authnmethodsreferences",
+    "Value": "mfa"
+  },
+  {
+    "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname",
+    "Value": "Isa Abdulla Isa"
+  },
+  {
+    "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname",
+    "Value": "Muneera"
+  },
+  {
+    "Type": "ipaddr",
+    "Value": "37.131.24.49"
+  },
+  {
+    "Type": "name",
+    "Value": "Muneera Isa Abdulla Isa"
+  },
+  {
+    "Type": "nonce",
+    "Value": "638825623887206260.OGM3NDJmMzgtN2QwNC00YjBkLTgyYWEtNmQxZGU5MWFmNDJjMDkzYmVmNzAtMjgyMS00YjI3LTk4ZGItMWJiNmVkMDE2ZWEx"
+  },
+  {
+    "Type": "http://schemas.microsoft.com/identity/claims/objectidentifier",
+    "Value": "e31aca23-5985-43d6-85ee-5a81cc93de94"
+  },
+  {
+    "Type": "onprem_sid",
+    "Value": "S-1-5-21-2141665459-1255881532-176895030-44163"
+  },
+  {
+    "Type": "rh",
+    "Value": "1.AUcA6BsCnI9QOEax31Kw48YVrKoWgn5sovVLsEyfjYDkXugNAVZHAA."
+  },
+  {
+    "Type": "sid",
+    "Value": "004e00d9-c2ee-f861-84e8-f1dcb488d1f4"
+  },
+  {
+    "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier",
+    "Value": "T7-Aps74bBdUaGF39zxSQ1CFQaAT7jDuSWHf25FRIM4"
+  },
+  {
+    "Type": "http://schemas.microsoft.com/identity/claims/tenantid",
+    "Value": "9c021be8-508f-4638-b1df-52b0e3c615ac"
+  },
+  {
+    "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+    "Value": "muneeraia@agu.edu.bh"
+  },
+  {
+    "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/upn",
+    "Value": "muneeraia@agu.edu.bh"
+  },
+  {
+    "Type": "uti",
+    "Value": "gdo2sEzUDkWN1IABzkQ-AA"
+  },
+  {
+    "Type": "ver",
+    "Value": "1.0"
+  }
+]
